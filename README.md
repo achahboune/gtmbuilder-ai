@@ -1,7 +1,7 @@
 # GTMBuilder AI
 
 ## Overview
-GTMBuilder AI is a minimal SaaS MVP that generates Go‑to‑Market (GTM) plans from a single user prompt. It ships with a library of 1 200 pre‑configured actions (simulated in this MVP) and is aimed at founders of AI startups.
+GTMBuilder AI is a minimal SaaS that generates Go‑to‑Market (GTM) plans from a single user prompt. It ships with a library of 1 200 pre‑configured actions (simulated in this MVP) and is aimed at founders of AI startups.
 
 ## Features
 - Instant GTM plan generation from a free‑text prompt
